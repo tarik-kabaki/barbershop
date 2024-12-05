@@ -1,8 +1,8 @@
 Hello IShak / dev Team
 
-I hope you are all doing well, I want to give notes about the project, first before I started the project I gathered a lot of stuff like images and libraries that were needed for the task before I started coding so I could do what i can during 1 hour
+I hope you are all doing well, I want to give notes about the project, first before I started the project I gathered a lot of stuff like images and libraries that were needed for the task before I started coding so that 1 hour would be enough.
 
-I have some features about this task that I didn't have to implement like :
+I have some features about this task that I didn't have enough time to implement like :
 
 1. disable old dates on the calendar.
 2. disable old Times in the second section.
@@ -10,7 +10,7 @@ I have some features about this task that I didn't have to implement like :
 4. making API POST requests
 5. inserting the appointments in the backend
 
-   and a lot more stuff that for the tasks
+   and a lot more stuff for the tasks 
 
    Best regards
    Tarik Kabaki
