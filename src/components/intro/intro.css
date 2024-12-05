@@ -1,0 +1,22 @@
+.button-bg {
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+}
+
+.reds {
+  border-radius: 31% 69% 16% 84% / 68% 20% 80% 32%;
+}
+
+.lights {
+  border-radius: 572.947px;
+  background: radial-gradient(
+    40.17% 39.79% at 50% 50%,
+    rgba(170, 20, 240, 0.31) 0%,
+    rgba(170, 20, 240, 0) 100%
+  );
+}
+
+.bg-contact {
+  border-radius: 90px;
+  background: radial-gradient(rgba(58, 52, 86, 0.95), rgba(33, 30, 46, 1));
+  box-shadow: 0px 4px 4px 0px rgba(192, 183, 232, 0.01);
+}
