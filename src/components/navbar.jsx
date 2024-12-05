@@ -7,12 +7,12 @@ const Navbar = () => {
       <Container>
         <section className="w-full h-[100px] flex items-center justify-between">
           <h1 className=" text-purple-300 font-[700] lg:text-2xl text-md">
-            Mubarra Amjad
+            <span className="text-white font-bold lg:text-3xl text-md">K.</span>BarberShop
           </h1>
 
           <a href="#contact">
             <button className="text-white border-2 border-white lg:w-[150px] lg:h-[50px] w-[120px] h-[40px] text-xs lg:font-[400] font-[100] rounded-full">
-              CONTACT ME
+              BOOK NOW
             </button>
           </a>
         </section>

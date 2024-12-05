@@ -5,7 +5,7 @@ import { RiTwitterXFill } from "react-icons/ri";
 import { FaFacebookF } from "react-icons/fa";
 import "./mdia.css";
 import React from "react";
-import { useNavigate } from "react-router-dom";
+
 
 const Mdia = () => {
   return (
@@ -14,28 +14,28 @@ const Mdia = () => {
         <div className="w-full lg:h-[180px] h-auto flex items-center">
           <ul className="lg:flex lg:justify-between w-full">
             <a
-              href="https://www.linkedin.com/in/mubarra-amjad-7ab6a52a6/"
+              href="https://www.linkedin.com/in/tarik-kabaki-90a595233/"
               className="lg:flex lg:items-center flex justify-center lg:mb-0 mb-16 lg:mt-0 mt-10 text-slate-300 font-[700] gap-2 hover:text-[#0077b5] duration-300 cursor-pointer"
             >
               <span className="text-3xl">Linked</span>
               <FaLinkedin className="text-4xl" />
             </a>
             <a
-              href="https://www.instagram.com/amjad.mubarra?igsh=NmZsYnN6cjIxa2d4"
+              href="https://www.instagram.com/kabaki_tarik/"
               className="lg:flex lg:items-center flex justify-center lg:mb-0 mb-16 text-slate-300 font-[700] gap-2 hover:insta duration-300 hover:text-pink-600 cursor-pointer"
             >
               <span className="text-3xl">Instagram </span>
               <FaInstagram className="text-4xl" />
             </a>
             <a
-              href="https://twitter.com/MubarraAmjad"
+              href="https://x.com/KabakiTari38458"
               className="lg:flex lg:items-center flex justify-center lg:mb-0 mb-16 text-slate-300 font-[700] gap-2 hover:text-gray-600 duration-300 cursor-pointer"
             >
               <span className="text-3xl">Twitter</span>
               <RiTwitterXFill className="text-4xl" />
             </a>
             <a
-              href="https://www.facebook.com/profile.php?id=61550588762226&mibextid=ZbWKwL"
+              href="https://www.facebook.com/profile.php?id=100008277849885"
               className="lg:flex lg:items-center flex justify-center lg:mb-0 mb-10 text-slate-300 font-[700] gap-2 hover:text-[#1877F2] duration-300 cursor-pointer "
             >
               <span className="text-3xl">Facebook</span>
